@@ -1,8 +1,8 @@
-PWD /Users/forna/Documents/1.Politecnico/OLA/notes/Question Answers OLA
+PWD /Users/forna/Documents/1.Politecnico/OLA/notes/OLA_Answers
 INPUT /usr/local/texlive/2022/texmf.cnf
 INPUT /usr/local/texlive/2022/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/forna/Documents/1.Politecnico/OLA/notes/Question Answers OLA/main.tex
+INPUT /Users/forna/Documents/1.Politecnico/OLA/notes/OLA_Answers/main.tex
 OUTPUT main.log
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/book.cls
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/book.cls
